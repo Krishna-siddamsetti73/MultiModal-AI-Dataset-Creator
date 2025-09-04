@@ -143,3 +143,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions about annotation guidelines or dataset usage, please refer to the documentation in the `docs/` folder or create an issue in this repository.
+Linkedin : https://www.linkedin.com/in/krishna-siddamsetti-045862290/
+mail: krishnasiddamsetti15@gmail.com
+
