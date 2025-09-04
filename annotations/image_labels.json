@@ -1,0 +1,97 @@
+{
+  "info": {
+    "description": "Sample multi-modal dataset - Image annotations",
+    "version": "1.0",
+    "year": 2024,
+    "contributor": "MultiModal AI Dataset Creator",
+    "date_created": "2024-09-04T09:52:00Z"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "Creative Commons Attribution 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "width": 640,
+      "height": 480,
+      "file_name": "img_0001.jpg",
+      "license": 1,
+      "date_captured": "2024-09-04T09:52:00Z"
+    },
+    {
+      "id": 2,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_0002.jpg", 
+      "license": 1,
+      "date_captured": "2024-09-04T09:52:30Z"
+    },
+    {
+      "id": 3,
+      "width": 1024,
+      "height": 768,
+      "file_name": "img_0003.jpg",
+      "license": 1,
+      "date_captured": "2024-09-04T09:53:00Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [150, 120, 200, 180],
+      "area": 36000,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [400, 200, 150, 120],
+      "area": 18000,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 3,
+      "image_id": 2,
+      "category_id": 2,
+      "bbox": [300, 250, 180, 160],
+      "area": 28800,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 4,
+      "image_id": 3,
+      "category_id": 3,
+      "bbox": [100, 100, 300, 250],
+      "area": 75000,
+      "iscrowd": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "fruit",
+      "supercategory": "object"
+    },
+    {
+      "id": 2,
+      "name": "tool",
+      "supercategory": "object"
+    },
+    {
+      "id": 3,
+      "name": "signboard",
+      "supercategory": "object"
+    }
+  ]
+}

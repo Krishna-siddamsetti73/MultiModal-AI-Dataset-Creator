@@ -1,0 +1,129 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# ML/AI specific
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+models/
+checkpoints/
+
+# Data files (uncomment if you want to exclude large datasets)
+# *.csv
+# *.json
+# *.txt
+# *.wav
+# *.mp3
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+
+# Annotation tools temporary files
+*.xml.bak
+*.json.bak
+*.tmp
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Large file indicators
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary QA files
+temp_qa/
+backup_annotations/

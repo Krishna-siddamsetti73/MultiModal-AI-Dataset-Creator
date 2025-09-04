@@ -1,0 +1,16 @@
+Product Review Collection - Sample Data
+
+Review 1:
+I absolutely love this new smartphone! The camera quality is amazing and the battery lasts all day. The interface is intuitive and the performance is lightning fast. Highly recommended for anyone looking for a premium device.
+
+Review 2:
+The service at this restaurant was terrible. We waited over an hour for our food, and when it finally arrived, it was cold and tasteless. The staff was unhelpful and seemed annoyed when we complained. Will not be returning.
+
+Review 3:
+The weather today is okay I guess. Not too hot, not too cold. Perfect for a walk in the park, though I wish there was a bit more sunshine. The clouds make it look a bit gloomy.
+
+Review 4:
+Great product but the shipping was slow. Mixed feelings about the overall experience. The item itself exceeded expectations with excellent build quality, but the delivery took twice as long as promised.
+
+Review 5:
+Neutral feedback on this service. It does what it's supposed to do, nothing more, nothing less. Price is reasonable, customer support is average. No major complaints but nothing particularly impressive either.

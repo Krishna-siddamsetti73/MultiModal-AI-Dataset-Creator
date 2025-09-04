@@ -1,0 +1,11 @@
+text,label,confidence,task_type,annotator,timestamp,notes
+"I absolutely love this new smartphone! The camera quality is amazing and the battery lasts all day.",positive,high,sentiment_analysis,Annotator_A,2024-09-04T09:52:00,"Clear positive sentiment"
+"The service at this restaurant was terrible. We waited over an hour for our food.",negative,high,sentiment_analysis,Annotator_A,2024-09-04T09:52:30,"Strong negative sentiment"
+"The weather today is okay I guess. Not too hot, not too cold.",neutral,medium,sentiment_analysis,Annotator_A,2024-09-04T09:53:00,"Indifferent tone"
+"Great product but the shipping was slow. Mixed feelings about the overall experience.",mixed,high,sentiment_analysis,Annotator_A,2024-09-04T09:53:30,"Contains both positive and negative"
+"Apple Inc. released their latest iPhone model last Tuesday in Cupertino California.",entities,high,ner,Annotator_B,2024-09-04T09:54:00,"Apple:ORG iPhone:PRODUCT Tuesday:DATE Cupertino:LOC California:LOC"
+"John Smith from Microsoft visited our New York office yesterday to discuss the partnership.",entities,high,ner,Annotator_B,2024-09-04T09:54:30,"John Smith:PERSON Microsoft:ORG New York:LOC yesterday:DATE"
+"The meeting with Tesla representatives is scheduled for March 15th at 2 PM.",entities,medium,ner,Annotator_B,2024-09-04T09:55:00,"Tesla:ORG March 15th:DATE 2 PM:TIME"
+"Can you help me find the nearest gas station?",question,high,intent_classification,Annotator_C,2024-09-04T09:55:30,"User seeking information"
+"I would like to cancel my subscription please.",request,high,intent_classification,Annotator_C,2024-09-04T09:56:00,"User requesting action"
+"Your customer service is excellent! Thank you for the quick resolution.",compliment,high,intent_classification,Annotator_C,2024-09-04T09:56:30,"User expressing praise"

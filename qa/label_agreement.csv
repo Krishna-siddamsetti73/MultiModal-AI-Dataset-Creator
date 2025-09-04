@@ -1,0 +1,10 @@
+file_name,modality,task_type,annotator_1,annotator_2,annotator_3,gold_standard,agreement_score,kappa_score,conflict_resolution,resolution_date,notes
+img_0001.jpg,image,classification,fruit,fruit,fruit,fruit,1.0,1.0,none,2024-09-04,Perfect agreement
+img_0002.jpg,image,classification,tool,tool,unclear,tool,0.67,0.5,majority_vote,2024-09-04,One annotator uncertain due to image quality
+img_0003.jpg,image,object_detection,2_objects,3_objects,2_objects,2_objects,0.67,0.6,expert_review,2024-09-04,Disagreement on partially visible object
+review_001.txt,text,sentiment_analysis,positive,neutral,positive,positive,0.67,0.5,expert_review,2024-09-04,Borderline case requiring expert decision
+review_002.txt,text,sentiment_analysis,negative,negative,negative,negative,1.0,1.0,none,2024-09-04,Clear negative sentiment
+review_003.txt,text,ner,"John:PERSON,Apple:ORG","John:PERSON,Apple:ORG","John:PERSON,Apple:PRODUCT","John:PERSON,Apple:ORG",0.89,0.75,discussion,2024-09-04,Apple context determines classification
+audio_0001.wav,audio,transcription,"Hello there","Hello there","Hello there","Hello there",1.0,1.0,none,2024-09-04,Clear speech
+audio_0002.wav,audio,transcription,"Can you help [inaudible]","Can you help me","Can you help [unclear]","Can you help [inaudible]",0.67,0.6,guidelines_clarification,2024-09-04,Different approaches to unclear speech
+audio_0003.wav,audio,speaker_diarization,2_speakers,2_speakers,3_speakers,2_speakers,0.67,0.5,expert_review,2024-09-04,Background voice interpretation varies

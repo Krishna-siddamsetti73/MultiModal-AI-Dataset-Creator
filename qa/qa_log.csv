@@ -1,0 +1,8 @@
+timestamp,modality,file_name,annotator,task_type,status,quality_score,issues_found,resolution,notes,reviewer,review_date
+2024-09-04T09:52:00,image,img_0001.jpg,Annotator_A,classification,completed,high,none,n/a,Clear apple classification,Reviewer_1,2024-09-04T10:15:00
+2024-09-04T09:53:00,image,img_0002.jpg,Annotator_A,object_detection,in_progress,pending,bbox_accuracy,adjust_boundaries,Need tighter bounding box,Reviewer_1,2024-09-04T10:16:00
+2024-09-04T09:54:00,text,review_001.txt,Annotator_B,sentiment_analysis,completed,medium,label_uncertainty,peer_review,Borderline positive/neutral case,Reviewer_2,2024-09-04T10:20:00
+2024-09-04T09:55:00,audio,audio_0001.wav,Annotator_C,transcription,completed,high,none,n/a,Clear speech transcription,Reviewer_1,2024-09-04T10:25:00
+2024-09-04T09:56:00,image,img_0003.jpg,Annotator_A,segmentation,pending,pending,not_started,n/a,Waiting for annotator availability,,
+2024-09-04T09:57:00,text,review_002.txt,Annotator_B,ner,completed,low,entity_misclassification,reannotate,Confused organization with location,Reviewer_2,2024-09-04T10:30:00
+2024-09-04T09:58:00,audio,audio_0002.wav,Annotator_C,speaker_diarization,completed,medium,overlap_handling,clarify_guidelines,Unclear how to handle speaker overlap,Reviewer_1,2024-09-04T10:35:00

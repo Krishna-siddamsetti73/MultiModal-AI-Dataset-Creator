@@ -1,0 +1,11 @@
+audio_file,start_time,end_time,duration,speaker,transcription,confidence,language,notes,annotator,timestamp
+audio_0001.wav,0.0,3.2,3.2,Speaker1,"Hello, how are you doing today?",high,en,"Clear speech with good audio quality",Annotator_A,2024-09-04T09:57:00
+audio_0001.wav,3.5,6.8,3.3,Speaker2,"I'm doing well, thank you for asking. How about you?",high,en,"Natural conversational response",Annotator_A,2024-09-04T09:57:15
+audio_0001.wav,7.0,10.5,3.5,Speaker1,"I'm great! The weather is really nice today.",high,en,"Positive sentiment in voice",Annotator_A,2024-09-04T09:57:30
+audio_0002.wav,0.0,2.8,2.8,Speaker1,"Um, can you help me with this [inaudible] problem?",medium,en,"Some background noise affecting clarity",Annotator_B,2024-09-04T09:58:00
+audio_0002.wav,3.0,5.5,2.5,Speaker2,"Of course! What seems to be the issue?",high,en,"Clear and helpful tone",Annotator_B,2024-09-04T09:58:15
+audio_0003.wav,0.0,4.2,4.2,Speaker1,"Thank you so much for your help today. I really appreciate it.",high,en,"Gratitude expressed clearly",Annotator_C,2024-09-04T09:59:00
+audio_0003.wav,4.5,6.0,1.5,Speaker2,"You're very welcome! Have a great day.",high,en,"Polite closing",Annotator_C,2024-09-04T09:59:15
+audio_0004.wav,0.0,3.0,3.0,Speaker1,"The quick brown fox jumps over the lazy dog.",high,en,"Standard pronunciation test phrase",Annotator_A,2024-09-04T09:59:30
+audio_0005.wav,0.0,2.5,2.5,Speaker1,"Testing, testing, one two three.",medium,en,"Audio quality test with echo",Annotator_B,2024-09-04T10:00:00
+audio_0005.wav,3.0,5.8,2.8,Speaker1,"Can you hear me clearly now? [cough]",medium,en,"Some interference and non-speech sound",Annotator_B,2024-09-04T10:00:15
